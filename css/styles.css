@@ -1,0 +1,56 @@
+.parallax {
+    /* The image used */
+    background-image: url("../images/4d6fd9f8b8e70dfedc5efc79223c9d61.jpg");
+
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron {
+    background-image: url(../images/Hyperstars-Animated-Background.jpg)
+}
+.hello:hover{
+    opacity: 0.5;
+    color: black;
+}
+.hello{
+    height: 1000px;
+    width: 1000px;
+    background-image: url(../images/IMG_20160102_034200.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+#fb{
+    height: 10%;
+    width: 10%;
+}
+#git{
+    height: 10%;
+    width: 10%;
+}
+#twt{
+    height: 10%;
+    width: 10%;
+}
+.text-center:hover{
+    opacity: 0.5;
+    color:black;
+}
+.text-center{
+    background-color: beige;
+    color:black;
+    font-size: 150%;
+}
+.col-md-8{
+    
+}
+#more{
+    font-size: 150%
+}
